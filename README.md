@@ -1,3 +1,11 @@
+# BUSCA-AO-TESOURO
+
+## Autores
+-> Camila Louzada Moraes – 20200058741
+-> Joao Victor Braga De Gusmao – 20200095530
+-> Rainer Terroso Carneiro – 20200021661
+-> Reuben L. Ramalho Claudino - 20210024602
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
