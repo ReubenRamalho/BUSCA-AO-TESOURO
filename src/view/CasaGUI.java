@@ -13,7 +13,7 @@ public class CasaGUI extends JButton {
     
     // Icones das pecas
     private static final ImageIcon VAZIO = new ImageIcon("imagens/Empty-Image.png");
-    private static final ImageIcon RECOMPENSA = new ImageIcon("imagens/Treasure-4.png");
+    private static final ImageIcon RECOMPENSA = new ImageIcon("imagens/Treasure-3.png");
     private static final ImageIcon BOMBA = new ImageIcon("imagens/Bomb.png");
     private static final ImageIcon ESCONDIDO = new ImageIcon("imagens/Hidden.png");
     

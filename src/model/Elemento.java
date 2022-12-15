@@ -1,24 +1,5 @@
 package model;
-public class Elemento {
-
-    // Possivel ID
-
-    /**
-     *  ID    Tipo
-     *   0   Vazio
-     *   1   Recompensa
-     *   2   Bomba
-     */
-
-    public static final int VAZIO = 0;
-    public static final int RECOMPENSA = 1;
-    public static final int BOMBA = 2;
-
-    // Atributos 
-    protected Casa casa;
-    protected int ID;
-    //protected int valor;
-    protected boolean visibilidade = false;
+public class Elemento extends ElementoAbstrato{
 
     public void setCasa(Casa casa) {
         this.casa = casa;
@@ -41,4 +22,5 @@ public class Elemento {
     public void esconder() {
         visibilidade = false;
     }
+
 }
