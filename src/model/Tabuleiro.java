@@ -1,11 +1,5 @@
 package model;
-/**
- * O Tabuleiro do jogo. 
- * Respons�vel por armazenar as 64 casas.
- * 
- * @author Alan Moraes &lt;alan@ci.ufpb.br&gt;
- * @author Leonardo Villeth &lt;lvilleth@cc.ci.ufpb.br&gt;
- */
+
 public class Tabuleiro {
 
     private Casa[][] board;
